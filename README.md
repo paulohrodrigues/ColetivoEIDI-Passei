@@ -32,7 +32,7 @@ $ ionic serve
 <ul>
   <li><a href="https://github.com/el7hon">Elthon Oliveira</a></li>
   <li><a href="https://github.com/Juliano-rb">Juliano Rocha</a></li>
-  <li><a href="#">Monaly Vital</a></li>
+  <li><a href="https://github.com/MonalyVital">Monaly Vital</a></li>
   <li><a href="https://github.com/paulohrodriguesaifal">Paulo Henrique Abreu</a></li>
 </ul>
 
