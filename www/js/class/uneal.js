@@ -1,3 +1,10 @@
+/**
+ * PASSEI? (play.google.com/store/apps/details?id=com.eidi.passei)
+ *
+ * @link https://github.com/paulohrodriguesaifal/ColetivoEIDI-Passei
+ * @copyright Copyright (c) 2016 Coletivo EIDI
+ * @license https://github.com/paulohrodriguesaifal/ColetivoEIDI-Passei/blob/master/LICENSE (GNU GENERAL PUBLIC LICENSE)
+ */
 function UNEAL(){
 	this.n1=0;
 	this.n2=0;
