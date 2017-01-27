@@ -2,7 +2,7 @@
   
  <strong>
   PASSEI? - http://play.google.com/store/apps/details?id=com.eidi.passei<br/>
-  @copyright Copyright (c) 2016 Coletivo EIDI<br/>
+  @copyright Copyright (c) 2016 Coletivo EIDI (site: https://sites.google.com/site/eidicoletivo) <br/>
   @license - https://github.com/paulohrodriguesaifal/ColetivoEIDI-Passei/blob/master/LICENSE (GNU GENERAL PUBLIC LICENSE)
  </strong>
 
